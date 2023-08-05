@@ -1,0 +1,11 @@
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\bin\Debug\Ass23MainApp.exe.config
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\bin\Debug\Ass23MainApp.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\bin\Debug\Ass23MainApp.pdb
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\bin\Debug\MySharedLib.dll
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\bin\Debug\MySharedLib.pdb
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.csproj.CopyComplete
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.pdb
